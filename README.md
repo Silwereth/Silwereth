@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working on an interesting psychometric project aimed at estimating the difficulty of items based on their textual characteristics. We are working mostly with publicly available data and items from the Czech Matura exam. The results may influence the preparation of high-stakes tests for the final high school exam, which is taken by tens of thousands of students in the Czech Republic every year. They will help to improve not only the efficiency of this process, but also the fairness and security of these tests.
+
+I'm also a final year student in a PhD program in psychology at Charles University in Prague. My dissertation project focuses on combining psychometrics with machine learning techniques. I am interested in item difficulty, computer adaptive testing and test cheating detection.
+
+I love learning and following the latest trends in AI! I like online courses, but due to my academic background I also attend scientific conferences and workshops. Although I am already comfortable with Excel, SQL, PHP and R, I am currently learning Python. I am convinced that there is no one best programming language, but a different approach is appropriate for each project and problem.
+
+You can reach me on my Linkedin profile www.linkedin.com/in/jana-dlouha.
